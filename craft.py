@@ -29,6 +29,8 @@ while True:
         pyautogui.click(x=MacroX, y=MacroY)
         mouse.press(Button.left)
         mouse.release(Button.left)
+        mouse.press(Button.right)
+        mouse.release(Button.right)
         tempo = random.randint(30, 60)
         time.sleep(tempo)
     except:

@@ -1,5 +1,4 @@
 # Automatic-crafter
-<h1>Automated Crafter</h1>
 <p1>Automated Crafter 2.0 by ChriSSH</p1>
 <br>
 <br>
